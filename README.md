@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sowmya Sreenivasan
-- 🎓 I’m pursuing my MTech in Data Science and Machine Learning 
-- 🧑‍🎓  Fresher
+- 🎓 Completed my BTech in Electronics and Communication from Christ University and MTech in Data Science and Machine Learning from PES University 
+- 🧑‍🎓  Aspiring Data Analyst
 - 📍  I’m from Bangalore
-- 💡  Exploring Data Science and Searching Job Opportunities
+- 💡  Exploring Data Analytics Job Opportunities
 - 📧 sowmya.sreenivasan123@gmail.com 
 
 <!---
