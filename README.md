@@ -6,12 +6,13 @@
 - Currently working on projects which you can check out [here](https://github.com/sowmisow25).
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)] 
-<img src="https://github.com/user-attachments/assets/fdea917b-7f84-4cf3-8dd4-49e209fbf416" width="40" />(https://www.linkedin.com/in/sowmya-sreenivasan) 
-
 <a href="https://www.linkedin.com/in/sowmya-sreenivasan" target="_blank">
-  <img src="https://github.com/user-attachments/assets/fdea917b-7f84-4cf3-8dd4-49e209fbf416" width="40" />
+  <img src="https://github.com/user-attachments/assets/1522b6af-9479-4773-bdca-f2a66180b5c1" width="50" />
 </a>
+<a href="https://github.com/sowmisow25" target="_blank">
+  <img src="https://github.com/user-attachments/assets/47441e58-c645-49e7-8bc0-6752d20c62d2" width="50" />
+</a>
+
 
 ### Tools:
 <img src="https://github.com/user-attachments/assets/cad7de15-505b-41b1-b51f-ddb110e768ec" width="50" />    
