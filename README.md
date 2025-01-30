@@ -2,16 +2,20 @@
 <h3 align="center">Aspiring Data Analyst</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmisow25&label=Profile%20views&color=0e75b6&style=flat" alt="sowmisow25" /> </p>
+
+
+
 - Transitioning my career into Data Analytics.
 - Upskilling in **Microsoft Excel**, **Power BI**, **SQL**, **Python**, and more to sharpen my data analytics skills.
 - Currently working on projects which you can check out [here](https://github.com/sowmisow25).
 - How to reach me : sowmya.sreenivasan123@gmail.com
 
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/sowmya-sreenivasan" target="_blank">
-  <img src="https://github.com/user-attachments/assets/c61a63e9-88fb-49dc-99e7-c42052ab4777" width="40" />
-</a>
+### Connect with me:                                                      
+<a href="https://www.linkedin.com/in/sowmya-sreenivasan" target="_blank">            
+  <img src="https://github.com/user-attachments/assets/c61a63e9-88fb-49dc-99e7-c42052ab4777" width="40" />  
+</a>   
 
 
 ### Technologies & Tools:
@@ -20,3 +24,9 @@
 <img src="https://github.com/user-attachments/assets/26a8c5be-3a84-4c0f-8220-3983627a754a" width="40" />
 <img src="https://github.com/user-attachments/assets/a297c403-06ff-48f4-91d5-fbc8bd070531" width="40" />
 <img src="https://github.com/user-attachments/assets/f7fc9fa2-6d75-4868-a42b-22dd9f125690" width="40" />
+
+                 
+
+
+
+
